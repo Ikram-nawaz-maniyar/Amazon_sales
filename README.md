@@ -1,38 +1,26 @@
-# Amazon_sales
-📊 Amazon Sales Dashboard - Power BI Project
-This repository contains a Power BI project that visualizes and analyzes Amazon sales data to uncover key business insights and support data-driven decision-making.
+Amazon Sales Performance
 
-🧾 Project Overview
-The Amazon Sales Dashboard is a comprehensive business intelligence project developed using Microsoft Power BI. It is designed to help stakeholders understand performance metrics, track sales trends, and monitor key indicators over time.
+📊 Sales Performance Dashboard | Power BI Project
 
-📌 Key Features
-Interactive dashboards with filter options for category, region, date range, and more
+Excited to share my latest project built using Power BI, where I created an interactive Sales Dashboard to visualize product performance, customer locations, and order status across the U.S.
 
-Visual breakdown of sales, profit, and quantity sold by category, sub-category, and product
+🔍 Dashboard Highlights:
 
-Time series analysis of sales trends across months and years
+📦 Total Sales tracked across 714 orders, totaling 244K units
 
-Performance comparison across different segments such as states, cities, and customer types
+🛍️ Product-level analysis: Quantity & Revenue breakdown by category (e.g. Smartphone, Laptop, Refrigerator)
 
-Profitability analysis to identify high-performing and underperforming products
+🌍 Customer Geo-Location visualized using map visuals by city (Boston, Chicago, Dallas, Denver, etc.)
 
-📁 Files Included
-Amazon Sales.pbix – The Power BI report file containing all data visualizations, measures, and transformations
+💳 Order segmentation by Status (Completed, Pending, Cancelled) and Payment Method
 
-🛠️ Tools & Technologies
-Power BI
+📈 Used bar charts, pie charts, slicers, and dynamic filters for clear insights
 
-DAX (Data Analysis Expressions)
+🧮 DAX Measures and Power Query used for KPIs like total smartwatch sales, quantity sold, and revenue share
 
-Data modeling
+🎯 Goal: Empower businesses to track product performance and identify top-selling regions, optimize inventory, and monitor fulfillment status in real time.
 
-Interactive dashboards and slicers
+Tools Used: Power BI | DAX | Power Query | Excel
 
-🎯 Purpose
-The goal of this project is to:
+#PowerBI #DataAnalytics #SalesDashboard #DataVisualization #BusinessIntelligence #IkramManiyar
 
-Showcase data modeling and visualization skills
-
-Provide actionable insights for improving sales strategy
-
-Serve as a portfolio project for data analysis and business intelligence roles
